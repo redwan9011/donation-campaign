@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import Card from './Card';
 
 const Cards = ({cards}) => {
+    
    
     return (
       <div className='max-w-6xl mx-auto mt-16 mb-5'>

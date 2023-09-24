@@ -1,150 +1,150 @@
  [
     {
-      "id":1,
+      "id":"1",
       "category": "Health",
       "category_bg": "#FF5733",
       "card_bg": "#F0A6A6",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Clean water for children",
       "image": "https://i.ibb.co/WpbqD6K/Health.png",
-      "description": "Supports overall health and well-being.",
+      "description": "Health, the cornerstone of a fulfilling life, encompasses physical, mental, and emotional well-being. It's a harmonious balance nurtured through nourishing food, regular exercise, and positive relationships. Investing in health yields a wealth of vitality, longevity, and an enriched existence.",
       "price": "$29.99",
-      "details_img": "health_supplement_a_details.jpg"
+      "details_img": "https://i.ibb.co/JmJJ2Xv/Rectangle-4284.png"
     },
     {
-      "id":2,
+      "id":"2",
       "category": "Food",
       "category_bg": "#4CAF50",
       "card_bg": "#A3D9A5",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Better Food for Everyone",
       "image": "https://i.ibb.co/41k79Nh/Food.png",
-      "description": "A blend of nutrient-rich organic superfoods.",
+      "description": "Food, a symphony of flavors, textures, and aromas, nourishing both body and soul with each bite. It's a cultural bridge that connects people across the globe, telling stories of traditions and history. From street vendors to fine dining, food is an endless exploration of taste and creativity.",
       "price": "$19.99",
-      "details_img": "organic_superfood_mix_details.jpg"
+      "details_img": "https://i.ibb.co/Xj6wV9B/Rectangle-4287-2.png"
     },
     {
-      "id":3,
+      "id":"3",
       "category": "Education",
       "category_bg": "#2980B9",
       "card_bg": "#9EDFF8",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Good Education",
       "image": "https://i.ibb.co/0rJK0Tb/Rectangle-4288.png",
-      "description": "Enhances cognitive skills and problem-solving.",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "price": "$15.99",
-      "details_img": "educational_puzzle_set_details.jpg"
+      "details_img": "https://i.ibb.co/CvgdQHq/Rectangle-4287-1.png"
     },
     {
-      "id":4,
+      "id":"4",
       "category": "clothing",
       "category_bg": "#FFC300",
       "card_bg": "#FFED96",
-      "text_button_color": "#000000",
+      "text_button_color": "#FF444A",
       "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/Npv9ZM6/Clothing.png",
-      "description": "A trendy and comfortable jacket for men.",
+      "description": "Clothing, a canvas of personal expression, mirrors one's style, culture, and mood. It's the fabric that weaves together individuality and societal norms, telling a silent yet powerful story of identity. From threads to fashion, it transforms not just bodies, but the narrative of humanity.",
       "price": "$49.99",
-      "details_img": "stylish_mens_jacket_details.jpg"
+      "details_img": "https://i.ibb.co/zftRqfw/Rectangle-4287.png"
     },
     {
-      "id":5,
+      "id":"5",
       "category": "Clothing",
       "category_bg": "#FFC300",
       "card_bg": "#FFED96",
-      "text_button_color": "#000000",
+      "text_button_color": "#FF444A",
       "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/Npv9ZM6/Clothing.png",
-      "description": "A stylish and elegant dress for women.",
+      "description": "Clothing, a canvas of personal expression, mirrors one's style, culture, and mood. It's the fabric that weaves together individuality and societal norms, telling a silent yet powerful story of identity. From threads to fashion, it transforms not just bodies, but the narrative of humanity.",
       "price": "$34.99",
-      "details_img": "womens_fashion_dress_details.jpg"
+      "details_img": "https://i.ibb.co/zftRqfw/Rectangle-4287.png"
     },
     {
-      "id":6,
+      "id":"6",
       "category": "Education",
       "category_bg": "#2980B9",
       "card_bg": "#9EDFF8",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Good Education",
       "image": "https://i.ibb.co/0rJK0Tb/Rectangle-4288.png",
-      "description": "Educational tablet for interactive learning.",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "price": "$39.99",
-      "details_img": "learning_tablet_details.jpg"
+      "details_img": "https://i.ibb.co/CvgdQHq/Rectangle-4287-1.png"
     },
     {
-      "id":7,
+      "id":"7",
       "category": "Food",
       "category_bg": "#4CAF50",
       "card_bg": "#A3D9A5",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Better Food for Everyone",
       "image": "https://i.ibb.co/41k79Nh/Food.png",
-      "description": "Pure and natural organic honey.",
+      "description": "Food, a symphony of flavors, textures, and aromas, nourishing both body and soul with each bite. It's a cultural bridge that connects people across the globe, telling stories of traditions and history. From street vendors to fine dining, food is an endless exploration of taste and creativity.",
       "price": "$12.99",
-      "details_img": "organic_honey_details.jpg"
+      "details_img": "https://i.ibb.co/Xj6wV9B/Rectangle-4287-2.png"
     },
   
     {
-      "id":8,
+      "id":"8",
       "category": "Health",
       "category_bg": "#FF5733",
       "card_bg": "#F0A6A6",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Clean water for children",
       "image": "https://i.ibb.co/WpbqD6K/Health.png",
-      "description": "Boosts immune system and vitality.",
+      "description": "Health, the cornerstone of a fulfilling life, encompasses physical, mental, and emotional well-being. It's a harmonious balance nurtured through nourishing food, regular exercise, and positive relationships. Investing in health yields a wealth of vitality, longevity, and an enriched existence.",
       "price": "$9.99",
-      "details_img": "vitamin_c_tablets_details.jpg"
+      "details_img": "https://i.ibb.co/JmJJ2Xv/Rectangle-4284.png"
     },
 
 
     {
-      "id":9,
+      "id":"9",
       "category": "Health",
       "category_bg": "#FF5733",
       "card_bg": "#F0A6A6",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Clean water for children",
       "image": "https://i.ibb.co/WpbqD6K/Health.png",
-      "description": "Tracks your fitness progress and activities.",
+      "description": "Health, the cornerstone of a fulfilling life, encompasses physical, mental, and emotional well-being. It's a harmonious balance nurtured through nourishing food, regular exercise, and positive relationships. Investing in health yields a wealth of vitality, longevity, and an enriched existence.",
       "price": "$39.99",
-      "details_img": "fitness_tracker_details.jpg"
+      "details_img": "https://i.ibb.co/JmJJ2Xv/Rectangle-4284.png"
     },
     {
-      "id":10,
+      "id":"10",
       "category": "Food",
       "category_bg": "#4CAF50",
       "card_bg": "#A3D9A5",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Better Food for Everyone",
       "image": "https://i.ibb.co/41k79Nh/Food.png",
-      "description": "Indulge in a selection of gourmet chocolates.",
+      "description": "Food, a symphony of flavors, textures, and aromas, nourishing both body and soul with each bite. It's a cultural bridge that connects people across the globe, telling stories of traditions and history. From street vendors to fine dining, food is an endless exploration of taste and creativity.",
       "price": "$24.99",
-      "details_img": "gourmet_chocolate_box_details.jpg"
+      "details_img": "https://i.ibb.co/Xj6wV9B/Rectangle-4287-2.png"
     },
     {
-      "id":11,
+      "id":"11",
       "category": "Education",
       "category_bg": "#2980B9",
       "card_bg": "#9EDFF8",
-      "text_button_color": "#FFFFFF",
+      "text_button_color": "#FF444A",
       "title": "Good Education",
       "image": "https://i.ibb.co/0rJK0Tb/Rectangle-4288.png",
-      "description": "Enhances mathematical skills and concepts.",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "price": "$10.99",
-      "details_img": "mathematics_workbook_details.jpg"
+      "details_img": "https://i.ibb.co/CvgdQHq/Rectangle-4287-1.png"
     },
     {
-      "id":12,
+      "id":"12",
       "category": "Clothing",
       "category_bg": "#FFC300",
       "card_bg": "#FFED96",
-      "text_button_color": "#000000",
+      "text_button_color": "#FF444A",
       "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/Npv9ZM6/Clothing.png",
-      "description": "A comfortable and casual shirt for men.",
+      "description": "Clothing, a canvas of personal expression, mirrors one's style, culture, and mood. It's the fabric that weaves together individuality and societal norms, telling a silent yet powerful story of identity. From threads to fashion, it transforms not just bodies, but the narrative of humanity.",
       "price": "$22.99",
-      "details_img": "mens_casual_shirt_details.jpg"
+      "details_img": "https://i.ibb.co/zftRqfw/Rectangle-4287.png"
     }
   ]
 

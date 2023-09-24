@@ -11,15 +11,18 @@ import Root from './Components/Root/Root';
 import Home from './Components/Home/Home';
 import Donation from './Components/Donation/Donation';
 import Statistics from './Components/Statistics/Statistics';
+import Errorpage from './Components/errorpage/Errorpage';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <Errorpage></Errorpage>,
     children: [
       {
         path: '/',
-        element: <Home></Home>
+        element: <Home></Home>,
+        loader : () => fetch('../data.json')
       },
       {
         path: '/donation',

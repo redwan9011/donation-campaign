@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
 const DonationCard = ({donation}) => {
-    const { id, image,category,title , price, } = donation || {}
+    const { id, image,category,title , price,text_button_color,category_bg } = donation || {}
   
 
     return (
@@ -12,8 +12,9 @@ const DonationCard = ({donation}) => {
 
            <div className='p-6'>
            <div className='space-y-1 mb-4'>
-           <p>{category}</p>
-            <h1>{title}</h1>
+           <p className={`bg-[${category_bg}] w-fit px-3 py-1 rounded-sm text-[${text_button_color}]`}>{category}</p>
+           
+            <h1 className={``}>{title}</h1>
             <h4>{price}</h4>
            </div>
 

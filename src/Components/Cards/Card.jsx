@@ -12,13 +12,13 @@ const Card = ({card}) => {
                 <Link to ={`/card/${id}`}>
                 
                 <div style={{backgroundColor:`${card_bg}`}}  className={ `card card-compact    shadow-xl`}>
-  <figure><img className='h-36 w-72' src={image} alt="image" /></figure>
+  <figure><img className='h-28 w-56 md:h-36 md:w-72' src={image} alt="image" /></figure>
   <div className="card-body">
     <h2 style={{color:`${text_button_color}`, backgroundColor:`${category_bg}`}}
-     className={`card-title  px-3 py-1 rounded-sm text-sm  w-fit`}>{category}</h2>
+     className={`card-title  px-3 py-1 rounded-sm text-xs md:text-sm  w-fit`}>{category}</h2>
 
     <h1 style={{color:`${text_button_color}`}} 
-    className={`text-xl font-semibold`}>{title}</h1>
+    className={`text-md lg:text-xl font-semibold`}>{title}</h1>
         
   </div>
 </div>

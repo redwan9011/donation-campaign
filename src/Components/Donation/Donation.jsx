@@ -22,11 +22,11 @@ const Donation = () => {
     
 
     return (
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-6xl mx-auto px-5 md:px-6 lg:px-0">
            {
             nodonation ? <p className="h-[70vh] flex justify-center items-center font-bold text-red-600 text-3xl">{nodonation}</p> : <div>
 
-            <div className="grid grid-cols-2 gap-8 mt-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-8 mt-8">
                 {
                    isShow ?  donations.map(donation => <DonationCard key={donation.id} donation={donation}></DonationCard>) : 
 

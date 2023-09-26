@@ -1,4 +1,4 @@
-/* eslint-disable react-refresh/only-export-components */
+
 import { useEffect, useState } from "react";
 import { Chart } from "react-google-charts";
 import { useLoaderData } from "react-router-dom";
@@ -12,7 +12,10 @@ const Statistics = () => {
     const [donations, setDonation] = useState([])
     useEffect( () => {
         const donationItems = JSON.parse(localStorage.getItem('donation'));
-       setDonation(donationItems)
+        if(donationItems){
+            setDonation(donationItems)
+        }
+       
         
     }, [])
    const myDonation = donations.length
@@ -20,14 +23,15 @@ const Statistics = () => {
     const data = [
         ["Donation", "Donation per person"],
         ["Your Donation", myDonation],
-        ["Total Donation", totaldonation],
+        ["Total Donation", totaldonation ],
         
         
       ];
       
     return (
         <div>
-   <Chart
+          
+         <Chart
       chartType="PieChart"
       data={data}
       
